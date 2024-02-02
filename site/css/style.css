@@ -1,0 +1,31 @@
+/*crete a css style called tabs and style it to have boxes */
+
+html {
+	scroll-behavior: smooth;
+}
+
+.tabs{
+    display: inline-block;
+    margin: 10px;
+    
+}
+.tab-selector{
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	letter-spacing: 0;
+	font-weight: normal;
+	position: relative;
+	padding: 0 0 10px 0;
+	font-weight: normal;
+	line-height: normal;
+	color: #111111;
+	margin: 0
+}
